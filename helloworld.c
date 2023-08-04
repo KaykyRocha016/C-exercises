@@ -5,7 +5,7 @@
 //  ==========                 ==========
 
 int main(){
-    //imprime a mensagem que estive entre aspas duplas
+    //imprime a mensagem que estiver entre aspas duplas
     printf("Ola mundo.");
 
     //valor de retorno para a função principal
